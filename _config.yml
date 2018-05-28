@@ -3,8 +3,9 @@
 
 # Site settings
 title: Carbonly
-description: |
-  It Only Takes One To Stop Global Warming</br> 
+description: 
+  It Only Takes One To Stop Global Warming.
+  
   Measure Your Impact Below
 owner: Carbonly
 first_published: 2018 # if migrating another site, the year of your first publish
